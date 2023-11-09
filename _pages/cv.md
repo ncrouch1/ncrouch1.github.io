@@ -4,3 +4,5 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+
+{ %pdf "https://drive.google.com/file/d/1B6NAC6Zp5T1TbwxRGx9EEZDcUcRk8N6U/view?usp=sharing" no_link % }
