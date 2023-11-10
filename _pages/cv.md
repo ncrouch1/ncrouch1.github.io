@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/files/Noah_Crouch_CV.pdf" width="80%" height="80%" type="application/pdf"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/files/Noah_Crouch_CV.pdf" width="1000" height="1000" type="application/pdf"></iframe>
