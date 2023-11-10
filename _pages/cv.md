@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<embed src="https://drive.google.com/file/d/1B6NAC6Zp5T1TbwxRGx9EEZDcUcRk8N6U/view?usp=sharing" type="application/pdf"/>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
