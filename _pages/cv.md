@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/Noah_Crouch_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
