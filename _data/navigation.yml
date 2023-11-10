@@ -21,8 +21,5 @@ main:
   - title: "Resume"
     url: /resume/
   
-  - title: "Research Experience"
-    url: /research/
-    
   # - title: "Guide"
   #   url: /markdown/
