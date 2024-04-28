@@ -1,5 +1,6 @@
 ---
 title: "Java Game Engine Project 1: Configurable Pacman"
+date: 2023-11-10
 excerpt: "A version of the retro game Pacman made to be configurable.<br/><img src='/images/Pacman.png'>"
 collection: portfolio
 ---
